@@ -1,2 +1,2 @@
 # dsml_git_demo
- Git Demo
+How to get started with Git and Github
